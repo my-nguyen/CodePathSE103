@@ -1,0 +1,1 @@
+Please compute the length of the list A.
